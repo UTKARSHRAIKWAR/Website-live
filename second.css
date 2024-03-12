@@ -1,0 +1,11 @@
+body{
+    background-image:url('beru.png');
+    background-attachment: unset;
+}
+
+header{
+    background-color: blanchedalmond;   
+}
+article{
+    background-color: rgb(202, 233, 233);
+}
